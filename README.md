@@ -12,7 +12,6 @@ Sometimes this gets updated and sometimes It doesn't
 - There is no fun in making Comment Bots anymore
 - Robtop does not give a crap about you being anonymous. He'd rather sell your information off to the government
 - Tor Exit nodes are blocked. 
-- Somone keeps asking me for a bruteforce script and expects everything to always work even though I'm not a robot and I've tried to tell him that I can't do it because it's not what I made this for.
 - Like/DislikeBots are broken 
 - 6 months of research into IP repuatation and how it affects if we will be blocked or not.
 - [Daily Chat Downloader](https://github.com/CallocGD/DailyChatDownloader) Usecases...
